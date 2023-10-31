@@ -1,4 +1,4 @@
-Title: Get Started with Twitter: Your Ultimate Beginner's Guide
+##Title: Get Started with Twitter: Your Ultimate Beginner's Guide
 
 Are you new to Twitter or just looking to make the most of this dynamic social media platform? Twitter is a fantastic tool for connecting with people, staying informed, and expressing your thoughts. In this beginner's guide, we'll walk you through the basics of setting up your Twitter account, finding interesting content, and engaging with the Twitter community.
 
